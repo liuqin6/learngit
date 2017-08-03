@@ -7,3 +7,4 @@ feature1
 >>>>>>> feature1
 update
 insert test
+fix bug 101
